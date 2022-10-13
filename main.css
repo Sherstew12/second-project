@@ -1,0 +1,39 @@
+.flex-container {
+    flex-direction: column;
+}
+
+.section-one {
+    flex-direction: column;
+    background-color: #1f2937;
+
+    nav-right: auto;
+    justify-content: space-around;
+    text-align:inherit
+     
+}
+
+.section-two { 
+    flex-direction:column;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+
+.section-three { 
+    flex-direction:column;
+    background-color: grey;
+    text-align: center;
+}
+
+.section-four { 
+    flex-direction:column;
+    background-color: white;
+    justify-content: center;
+    text-align: center;
+
+}
+
+
+
+
+
